@@ -17,5 +17,4 @@ Diseño y análisis de un experimento A/B para evaluar cambios en **conversión*
 - `ab_test.ipynb` – Notebook con todo el análisis del experimento.  
 - `sample_data.csv` – Muestra de 200 filas (opcional).  
 
-📄 **Notas sobre datos**  
-Dataset de práctica de **TripleTen**. Este repo incluye solo un extracto ilustrativo.
+
